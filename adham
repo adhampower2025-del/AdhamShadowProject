@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>مشروع الظل - Adham Generators</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      direction: rtl;
+      text-align: center;
+      margin: 40px;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      font-size: 2em;
+      margin-bottom: 20px;
+      color: #2c3e50;
+    }
+    section {
+      background: #fff;
+      padding: 20px;
+      margin: 10px auto;
+      max-width: 600px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(44, 62, 80, 0.1);
+    }
+    a {
+      color: #3498db;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>مشروع الظل - Adham Generators</header>
+  <section>
+    <h2>مرحباً بك في مشروع الظل</h2>
+    <p>خدمة تشخيص أعطال المولدات عن بُعد وبيع ملفات PDF متخصصة.</p>
+    <p>للتواصل واتساب: <a href="https://wa.me/966565817264" target="_blank">0565817264</a></p>
+    <p>البريد الإلكتروني: <a href="mailto:adham.power2025@gmail.com">adham.power2025@gmail.com</a></p>
+  </section>
+</body>
+</html>
